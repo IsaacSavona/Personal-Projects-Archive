@@ -13,4 +13,4 @@ Personal Projects Overview
 
 **4. [Active Inference / KL control demo](https://github.com/IsaacSavona/Active-Inference-Exploration)** I've been reading Active Inference by Karl Friston in a book club with a friend and built a Python simulation demonstrating KL control, a formalism adjacent to the book's core framework. Smaller project but it's the kind of thing I do in my own time: find a controls idea I don't fully understand and implement it until I do.  
 
-gif of nonlinear control: https://github.com/IsaacSavona/Personal-Projects-Archive/blob/main/activeInference/kl_control_cartpole.gif 
+![](https://github.com/IsaacSavona/Personal-Projects-Archive/blob/main/activeInference/kl_control_cartpole.gif)
