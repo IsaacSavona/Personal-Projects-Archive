@@ -2,8 +2,7 @@ Personal Projects Overview
 
 **1. Clap-on clap-off light switch (ATtiny85)** I programmed an ATtiny85 using an Arduino as an ISP, soldered everything onto a protoboard, and built it into a modified electrical housing with an external gain knob to adjust microphone sensitivity. You plug a lamp in, plug the other end into the wall.   
 
-<img src="clapOnClapOff/breadboard.jpeg" width="200"/>
-<img src="clapOnClapOff/housed_circuitry.jpeg" width="200"/>
+<img src="clapOnClapOff/breadboard.jpeg" width="200"/> <img src="clapOnClapOff/housed_circuitry.jpeg" width="200"/>
 
 **2. [Portable weather satellite image station](https://github.com/IsaacSavona/Weather-Satellite-Image-Station)** A friend and I built a device that intercepts live transmissions from NOAA and Russian Meteor weather satellites and processes them into images of earth. The setup was a software defined radio timed with cron jobs to activate when a satellite was passing overhead. The cron jobs and Python decoding scripts ran on a Raspberry Pi. This setup, along with a portable battery, fit inside a 3D printed compliant mechanism housing which then friction-fit onto a collapsible PVC antenna mast you could take apart for transport. The whole thing can run autonomously in any sort of open clearing. What I like about this one is that every layer required something different: RF signal processing, embedded Linux, mechanical design, fabrication. And it worked on the first field test. It became my undergrad thesis and I presented it at Dartmouth's Convergence Symposium.  
 
